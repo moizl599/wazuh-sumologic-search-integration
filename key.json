@@ -1,0 +1,10 @@
+{
+    "access_id": "ACCESS-ID",
+    "access_key": "ACCESS-KEY",
+    "url": "https://api.<location>.sumologic.com/api/v1/search/jobs",
+    "logfile": "loginas_feature_log.log",
+    "cookie_file": "cookies.txt",
+    "timeZone": "EST",
+    "byReceiptTime": true,
+    "query": "query_here"
+}
